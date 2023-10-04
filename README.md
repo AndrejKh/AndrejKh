@@ -23,7 +23,7 @@
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AndrejKh&langs_count=8&layout=compact&theme=light&include_all_commits=true&line_height=27">
   </p> 
   <p align="center" style="margin-bottom: 10px;">
-      <img src="https://github-profile-trophy.vercel.app/?username=AndrejKh&column=7&theme=light"/>
+      <img src="https://github-profile-trophy.vercel.app/?username=AndrejKh&column=8&theme=light"/>
   </p>
   
 </div>
