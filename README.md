@@ -1,6 +1,6 @@
 <h1 style="position: absolute; color: white; bottom: 15px; transform: translate(-50%, 0); left: 50%">WELCOME TO MY GITHUB!</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&multiline=true&width=1200&height=180&lines=Hi+I+am+Andrej+Khnezevic%2C+a+Full+Stack+Engineer+with+over+10+years+of+rich+;experience+in+building+Web+and+Mobile+applications.;+JavaScript%2C+PHP%2C+Python%2C+React+Native+and+Flutter+are+my+major+skills.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&multiline=true&width=1200&height=180&lines=Hi+I+am+Andrej+Khnezevic%2C+a+Senior+Full+Stack+Engineer+with+over+10+years+;of+rich+experience+in+building+Web+and+Mobile+applications.;+JavaScript%2C+PHP%2C+Python%2C+React+Native+and+Flutter+are+my+major+skills.)](https://git.io/typing-svg)
 
 <div>
   <h2 font-weight="bold">ABOUT ME</h2>
