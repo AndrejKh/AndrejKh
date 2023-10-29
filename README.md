@@ -7,7 +7,7 @@
   <img align="left" width="500" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
   <p>
   I am a highly skilled and versatile Senior Full Stack Engineer with a strong track record of delivering innovative web solutions. 
-  With over 12 years of hands-on experience, I have honed my expertise in both front-end and back-end development. 
+  With over 10 years of hands-on experience, I have honed my expertise in both front-end and back-end development. 
   My technical proficiency, leadership capabilities, and passion for staying at the forefront of industry trends enable me to architect and execute complex projects with precision and creativity.
   As a Senior Full-Stack Engineer, my commitment to technical excellence, leadership, and continuous improvement is matched only by my dedication to delivering web applications that meet and exceed client expectations. 
   I thrive in challenging environments, where I can leverage my skills and experience to drive innovation and success.
